@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marco Aguiar====================================================================================================================================I'm a Software Engineer 👨‍💻-----------------------------💻📚 3 years of experience* 🌍  I'm based in São Paulo - Brazil.* 🖥️  See my portfolio at [MyPortifolio](http://aguiarprogrammer.vercel.app)* ✉️  You can contact me at [marcoaguiar14@gmail.com](mailto:marcoaguiar14@gmail.com)* 🧠  I'm learning NestJs framework
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marco Aguiar<br>
+I'm a Software Engineer 👨‍💻<br>
+💻📚 3 years of experience* <br>
+🌍  I'm based in São Paulo - Brazil.* <br>
+🖥️  See my portfolio at [MyPortifolio](http://aguiarprogrammer.vercel.app)* <br>
+✉️  You can contact me at [marcoaguiar14@gmail.com](mailto:marcoaguiar14@gmail.com)* <br>
+🧠  I'm learning NestJs framework
 
 ### Skills
 
