@@ -3,10 +3,10 @@
 ###
 
 <p align="left">My name is Marco and I'm a Software Engineer, from Brazil</p>
-*   🌍  I'm based in São Paulo - Brazil.
-*   🖥️  See my portfolio at [MyPortifolio](http://aguiarprogrammer.vercel.app)
-*   ✉️  You can contact me at [marcoaguiar14@gmail.com](mailto:marcoaguiar14@gmail.com)
-*   🧠  I'm learning/developing softwares with NestJs framework
+*   🌍  I'm based in São Paulo - Brazil.<br>
+*   🖥️  See my portfolio at [MyPortifolio](http://aguiarprogrammer.vercel.app)<br>
+*   ✉️  You can contact me at [marcoaguiar14@gmail.com](mailto:marcoaguiar14@gmail.com)<br>
+*   🧠  I'm learning/developing softwares with NestJs framework<br>
 
 ###
 
